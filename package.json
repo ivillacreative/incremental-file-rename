@@ -1,0 +1,13 @@
+{
+  "name": "incremental-file-rename",
+  "version": "1.0.0",
+  "description": "A utility to recursively rename files with incremental numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
+  },
+  "license": "MIT"
+}
